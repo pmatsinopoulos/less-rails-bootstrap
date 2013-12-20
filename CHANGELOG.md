@@ -1,5 +1,8 @@
 CHANGELOG
 =========
+2.3.4 - 21/DEC/2013
+  * fix the problem with modal dialogs scrolling
+  * http://stackoverflow.com/q/7508576/658469
 
 2.3.3 - 03/06/2013
 
